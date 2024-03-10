@@ -1,0 +1,6 @@
+#vscode
+.vscode
+#vim
+*.swp
+#system
+.DS_Store
